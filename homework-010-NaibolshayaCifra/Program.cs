@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Write number from 10 to 99");
+﻿Console.WriteLine("Write your number");
 int number = int.Parse(Console.ReadLine()!);
 while (number < 10 || number > 99)
 {
